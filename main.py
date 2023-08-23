@@ -233,7 +233,7 @@ plt.figure()
 imshow(output, title='Final Work')
 
 plt.ioff()
-plt.show()  # 图片输出
+plt.show()  
 
 
 
